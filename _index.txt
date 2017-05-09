@@ -1,6 +1,11 @@
 Categories of Desserts:
 Cakes
-Cheesecake
-Pie
+
+Cheesecakes
 Ice Cream
+
+
+Pies
+Cookies
+
 
